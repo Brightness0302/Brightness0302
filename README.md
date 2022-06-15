@@ -21,8 +21,8 @@ flipping tortillas.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JackySmithH2002&margin-w=15&margin-h=15)](https://github.com/JackySmithH2002/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
 <img align="center" src="https://thedevopsinstitute.com/wp-content/uploads/2021/05/Devops.png" width="100%" />
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="live:.cid.a9a5ff99927fb744" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" height="40" width="40" /></a>
