@@ -4,7 +4,7 @@
 <h3 align="center">A Senior Full Stack & Blockchain Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yessglory17&label=Profile%20views&color=0e75b6&style=flat" alt="yessglory17" /> </p>
 
-🔭 **I’m currently working on**: Dex, DEFI(Uniswap v2,v3), Dapp, NFT marketplace(Opensea, 0xv4), Launchpad, Stake and Farming(Fork Uniswap OlympusDAO, PancakeSwap), arbitrage/trading bot and other Ecommerce sites (for real though, I love starting stuff from scratch and fresh ideas).
+🔭 **I’m currently working on**: Defi, Dapp, Dex(Uniswap v2,v3), NFT marketplace(Opensea, 0xv4), Launchpad, Stake and Farming(Fork Uniswap, OlympusDAO, PancakeSwap), arbitrage/trading bot and other Ecommerce sites (for real though, I love starting stuff from scratch and fresh ideas).
 
 🌱 **I’m currently learning**: Right now I'm familiar with **Solidity**, **Web3** and **React**.
 
