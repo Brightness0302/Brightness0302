@@ -24,9 +24,11 @@ flipping tortillas.
 <img align="center" src="https://thedevopsinstitute.com/wp-content/uploads/2021/05/Devops.png" width="100%" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="live:.cid.a9a5ff99927fb744" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
+<a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" height="40" width="40" /></a>
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" height="40" width="40" /></a>
+<a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.dreamstime.com/telegram-logo-icon-voronezh-russia-january-light-blue-square-shadow-image171161263" alt="telegram" height="40" width="40" /></a>
+<a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.dreamstime.com/telegram-logo-icon-voronezh-russia-january-light-blue-square-shadow-image171161263" alt="whatsapp" height="40" width="40" /></a>
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
 </p>
 
