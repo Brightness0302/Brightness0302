@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm JackySmith</h1>
 <h3 align="center">A Senior Full Stack & Blockchain Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yessglory17&label=Profile%20views&color=0e75b6&style=flat" alt="yessglory17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yessglory17&label=Profile%20views&color=0e75b6&style=flat" alt="JackySmithH2002" /> </p>
 
 🔭 **I’m currently working on**: Defi, Dapp, Dex(Uniswap v2,v3), NFT marketplace(Opensea, 0xv4), Launchpad, Stake and Farming(Fork Uniswap, OlympusDAO, PancakeSwap), arbitrage/trading bot and other Ecommerce sites (for real though, I love starting stuff from scratch and fresh ideas).
 
