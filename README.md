@@ -27,8 +27,8 @@ flipping tortillas.
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" height="40" width="40" /></a>
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" height="40" width="40" /></a>
-<a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.dreamstime.com/telegram-logo-icon-voronezh-russia-january-light-blue-square-shadow-image171161263" alt="telegram" height="40" width="40" /></a>
-<a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.dreamstime.com/telegram-logo-icon-voronezh-russia-january-light-blue-square-shadow-image171161263" alt="whatsapp" height="40" width="40" /></a>
+<a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://thumbs.dreamstime.com/b/telegram-logo-icon-voronezh-russia-november-round-blue-color-164586026.jpg" alt="telegram" height="40" width="40" /></a>
+<a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://i.pcmag.com/imagery/articles/03VH07k1gu9qcyMHHppX05n-1.fit_scale.size_1028x578.v1569485022.jpg" height="40" width="40" /></a>
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
 </p>
 
