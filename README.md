@@ -17,6 +17,8 @@
 ⚡ **Fun fact**: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on
 flipping tortillas.
 
+<hr/>
+
 📫 How to reach me **JackySmithH2002@gmail.com**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JackySmithH2002&margin-w=15&margin-h=15)](https://github.com/JackySmithH2002/github-profile-trophy)
@@ -31,6 +33,8 @@ flipping tortillas.
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://i.pcmag.com/imagery/articles/03VH07k1gu9qcyMHHppX05n-1.fit_scale.size_1028x578.v1569485022.jpg" height="40" width="40" /></a>
 <a href="JackySmithH2002@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
 </p>
+
+<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -136,4 +140,10 @@ flipping tortillas.
 </p>
 <br/>
 
+<hr/>
+
+## 🚀 Github Snake
+
+Nice to meet you, from Github Snake... <br>
+![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
