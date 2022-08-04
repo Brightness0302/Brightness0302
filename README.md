@@ -21,7 +21,7 @@ flipping tortillas.
 
 📫 How to reach me **JackySmithH2002@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JackySmithH2002&margin-w=15&margin-h=15)](https://github.com/JackySmithH2002/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Superdev-kstar0302&margin-w=15&margin-h=15)](https://github.com/JackySmithH2002/github-profile-trophy)
 
 <img align="center" src="https://thedevopsinstitute.com/wp-content/uploads/2021/05/Devops.png" width="100%" />
 <h3 align="left">Connect with me:</h3>
