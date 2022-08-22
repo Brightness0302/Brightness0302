@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Superstar</h1>
+<h1 align="center">Hi 👋, I'm Brightness human</h1>
 <h3 align="center">A Senior Full Stack & Blockchain Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Superdev-kstar0302&label=Profile%20views&color=0e75b6&style=flat" alt="Superdev-kstar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Brightness0302&label=Profile%20views&color=0e75b6&style=flat" alt="Brightness0302" /> </p>
 
 🔭 **I’m currently working on**: Defi, Dapp, Dex(Uniswap v2,v3), NFT marketplace(Opensea, 0xv4), Launchpad, Stake and Farming(Fork Uniswap, OlympusDAO, PancakeSwap), arbitrage/trading bot and other Ecommerce sites (for real though, I love starting stuff from scratch and fresh ideas).
 
 🌱 **I’m currently learning**: Right now I'm familiar with **Solidity**, **Web3** and **React**.
 
-👨‍💻 All of my projects are available at [https://github.com/Superdev-kstar0302](https://github.com/Superdev-kstar0302)
+👨‍💻 All of my projects are available at [https://github.com/Brightness0302](https://github.com/Brightness0302)
 
 👯 **I’m looking to collaborate on**: open-source projects, StackOverflow knowledge, the core of any amazing frameworks, overthrowing capitalism.
 
@@ -21,7 +21,7 @@ flipping tortillas.
 
 📫 How to reach me **JackySmithH2002@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Superdev-kstar0302&margin-w=15&margin-h=15)](https://github.com/Superdev-kstar0302/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brightness0302&margin-w=15&margin-h=15)](https://github.com/Brightness0302/github-profile-trophy)
 
 <img align="center" src="https://thedevopsinstitute.com/wp-content/uploads/2021/05/Devops.png" width="100%" />
 <h3 align="left">Connect with me:</h3>
