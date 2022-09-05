@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Brightness human</h1>
-<h3 align="center">A Senior Full Stack & Blockchain Engineer</h3>
+<h3 align="center">A Senior Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brightness0302&label=Profile%20views&color=0e75b6&style=flat" alt="Brightness0302" /> </p>
 
 🔭 **I’m currently working on**: Defi, Dapp, Dex(Uniswap v2,v3), NFT marketplace(Opensea, 0xv4), Launchpad, Stake and Farming(Fork Uniswap, OlympusDAO, PancakeSwap), arbitrage/trading bot and other Ecommerce sites (for real though, I love starting stuff from scratch and fresh ideas).
