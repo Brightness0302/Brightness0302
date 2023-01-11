@@ -23,7 +23,6 @@ flipping tortillas.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brightness0302)](https://github.com/Brightness0302/github-profile-trophy)
 
-<img align="center" src="https://thedevopsinstitute.com/wp-content/uploads/2021/05/Devops.png" width="100%" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="Brightness0302@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
